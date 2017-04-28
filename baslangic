@@ -1,0 +1,60 @@
+on load:
+	set {zıp15.%player%} to false
+	set {zıp25.%player%} to false
+	set {zıp40.%player%} to false
+	set {zıp55.%player%} to false
+	set {zıp65.%player%} to false
+	set {zıp75.%player%} to false
+	set {zıp85.%player%} to false
+	set {zıp100.%player%} to false
+	set {zıp2.%player%} to false
+	set {zıp4.%player%} to false
+	set {güc15.%player%} to false
+	set {uykusuzluk.%player%} to 50
+	set {uykusuzluksimge.%player%} to " &6Uykusuzluk&8: &a&l ||||||||||||||||||||||"
+	set {uykusuzluksimgeslot.%player%} to "&a&l ::::::::::::::::::::"
+	set {uyumayaihtiyac.%player%} to "&7Uyumaya İhtiyacın yok"	
+	set {hız1g.%player%} to false
+	set {hız2g.%player%} to false
+	set {hız3g.%player%} to false
+	set {hız4g.%player%} to false
+	set {hız1.%player%} to false
+	set {hız2.%player%} to false
+	set {hız3.%player%} to false
+	set {hız4.%player%} to false		
+	delete {sportp.%player%}
+	set {hız15.%player%} to false
+	set {hız25.%player%} to false
+	set {hız40.%player%} to false
+	set {hız55.%player%} to false
+	set {hız65.%player%} to false
+	set {hız75.%player%} to false
+	set {hız85.%player%} to false
+	set {hız100.%player%} to false		
+	set {güc15.%player%} to false
+	set {güc25.%player%} to false
+	set {güc40.%player%} to false
+	set {güc55.%player%} to false
+	set {güc65.%player%} to false
+	set {güc75.%player%} to false
+	set {güc85.%player%} to false
+	set {güc100.%player%} to false
+	delete {kolk.%player%}
+	set {vgüc15.%player%} to false
+	set {vgüc25.%player%} to false
+	set {vgüc40.%player%} to false
+	set {vgüc55.%player%} to false
+	set {vgüc65.%player%} to false
+	set {vgüc75.%player%} to false
+	set {vgüc85.%player%} to false
+	set {vgüc100.%player%} to false
+	delete {vkas.%player%}	
+	delete {baldır.%player%}
+	set {zıp15.%player%} to false
+	set {zıp25.%player%} to false
+	set {zıp40.%player%} to false
+	set {zıp55.%player%} to false
+	set {zıp65.%player%} to false
+	set {zıp75.%player%} to false
+	set {zıp85.%player%} to false
+	set {zıp100.%player%} to false
